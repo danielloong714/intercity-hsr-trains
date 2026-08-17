@@ -1,0 +1,13 @@
+{
+  "id": "intercity-hsr-trains",
+  "name": "Intercity, HSR & Express Metro Trains",
+  "description": "Adds three new trains: Intercity Train (fast regional rail), HSR (very fast high-speed rail on its own dedicated tracks), and Express Metro (a quick, punchy metro for express services).",
+  "version": "1.0.0",
+  "author": {
+    "name": "danielloong714"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "subway-builder": ">=1.0.0"
+  }
+}
