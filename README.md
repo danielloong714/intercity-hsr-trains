@@ -1,5 +1,7 @@
 # Intercity, HSR & Express Metro Trains
 
+![Intercity, HSR & Express Metro Trains](promo/poster-trains.png)
+
 A Subway Builder mod that adds three new trains, each with its own dedicated track type (different train types do not share tracks):
 
 - **Express Metro** — a quick metro for express services: the strongest acceleration of the three and a top speed of ~110 km/h.
@@ -9,6 +11,8 @@ A Subway Builder mod that adds three new trains, each with its own dedicated tra
 ## Install (via Railyard)
 
 Install through the Railyard mod manager, or manually: drop the mod zip's files into a folder under your Subway Builder `mods/` directory (Windows: `%APPDATA%\metro-maker4\mods\`), restart the game, and enable the mod under Settings > Mods.
+
+![Construction estimate](promo/poster-receipt.png)
 
 ## Train stats
 
